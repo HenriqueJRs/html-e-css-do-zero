@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Estou Aprendendo HTML E CSS</h1>
+    <p>Parágrafo indicado pelo guanabaris
+    <br>Posso escrevever outro parágrafo com uma quebra de linha usando a Tag "br"
+    
+<br>Simobolos especiais</p>
+ &reg;
+&abreve;&parallel;
+&par;
+ &colone;
+ &cent;
+ &centerdot;
+ &CenterDot;
+ &capbrcup;
+ &capcup;
+ &ccirc;
+ &ffllig;
+ &target;
+ &yacute;
+</body>
+
+</html>
