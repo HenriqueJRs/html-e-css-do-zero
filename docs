@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Aprendendo a usar a tag IMG em HTML</h1>
+    <img src="imagens/000.png" alt="Imagem Paisagem">
+<h1>usando imagens externas</h1>
+<img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="">
+</body>
+
+</html>
